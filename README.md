@@ -4,7 +4,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%C3%ADcaro-eduardo-rodrigues-moreira-9b853a239/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_icaromr/)
 
-![Icaro GitHub stats](https://github-readme-stats.vercel.app/api?username=icaromr7&show_icons=true&theme=radical)
+![Icaro GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=icaromr7&show_icons=true&theme=radical)
 
 ## Tecnologias que eu uso no meu dia
 
