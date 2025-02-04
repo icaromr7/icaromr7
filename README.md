@@ -9,13 +9,15 @@
 ## Tecnologias que eu uso no meu dia
 
 <div style= "display: inline_block"><br/>
-    <img align="center" alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
     <img align="center" alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white" />
-    <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+    <img align="center" alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white" />
+    <img align="center" alt="C++" src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white" />
     <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-    <img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-    <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-    <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white" />
+    <img align="center" alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff" />
+    <img align="center" alt="React" src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB" />
+    <img align="center" alt="css" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff" />
+    <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white" />
 
 </div><br/>
 
